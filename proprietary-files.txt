@@ -53,7 +53,6 @@ lib/libril.so
 lib/libuicc.so
 lib/libvss_common_idl.so
 lib/libvss_common_iface.so
-lib/libxml.so
 lib/libvss_nv_idl.so
 lib/libvss_nv_iface.so
 lib/libxml.so
