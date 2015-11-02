@@ -28,5 +28,11 @@
   "repository": "android_device_qcom_common",
   "target_path": "device/qcom/common",
   "revision": "cm-12.1"
+  },
+  {
+  "remote": "cm",  
+  "repository": "android_hardware_sony_thermanager",
+  "target_path": "hardware/sony/thermanager",
+  "revision": "cm-12.1"
   }
 ]
