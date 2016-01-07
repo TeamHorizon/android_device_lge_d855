@@ -31,20 +31,8 @@
   },
   {
     "remote": "th",
-    "repository": "android_external_stlport",
-    "target_path": "external/stlport",
-    "revision": "mm"
-  },
-  {
-    "remote": "th",
-    "repository": "android_external_sony_boringssl-compat",
-    "target_path": "external/sony/boringssl-compat",
-    "revision": "mm"
-  },
-  {
-    "remote": "th",
-    "repository": "android_hardware_sony_thermanager",
-    "target_path": "hardware/sony/thermanager",
+    "repository": "android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
     "revision": "mm"
   }
 ]
