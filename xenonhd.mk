@@ -6,7 +6,12 @@ $(call inherit-product, vendor/xenonhd/config/common_full_phone.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/xenonhd/config/nfc_enhanced.mk)
 
+# Set those variables here to overwrite the inherited values.
+PRODUCT_DEVICE := d855
 PRODUCT_NAME := xenonhd_d855
+PRODUCT_BRAND := lge
+PRODUCT_MODEL := LG-D855
+PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
