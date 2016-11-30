@@ -3,9 +3,6 @@ $(call inherit-product, device/lge/d855/full_d855.mk)
 # Inherit some common CM stuff.
 $(call inherit-product, vendor/xenonhd/config/common_full_phone.mk)
 
-# Enhanced NFC
-$(call inherit-product, vendor/xenonhd/config/nfc_enhanced.mk)
-
 # Set those variables here to overwrite the inherited values.
 PRODUCT_DEVICE := d855
 PRODUCT_NAME := xenonhd_d855
