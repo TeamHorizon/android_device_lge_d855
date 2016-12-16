@@ -64,6 +64,10 @@ PRODUCT_PACKAGES += \
     FMRadio \
     libfmjni
 
+# Camera
+PRODUCT_PACKAGES += \
+  Snap
+
 PRODUCT_COPY_FILES += \
     device/lge/g3-common/wcnss/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
     device/lge/g3-common/wcnss/WCNSS_qcom_cfg.ini:system/etc/wifi/WCNSS_qcom_cfg.ini \
