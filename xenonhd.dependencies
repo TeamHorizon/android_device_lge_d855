@@ -2,16 +2,16 @@
   {
     "repository": "TeamHorizon/android_device_lge_g3-common",
     "target_path": "device/lge/g3-common",
-    "revision": "n"
+    "branch": "n"
   },
   {
     "repository": "TeamHorizon/android_kernel_lge_g3",
     "target_path": "kernel/lge/g3",
-    "revision": "n"
+    "branch": "n"
   },
   {
     "repository": "TeamHorizon/vendor_lge",
     "target_path": "vendor/lge",
-    "revision": "n"
+    "branch": "n"
   }
 ]
