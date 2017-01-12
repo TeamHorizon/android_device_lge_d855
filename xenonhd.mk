@@ -1,6 +1,6 @@
 $(call inherit-product, device/lge/d855/full_d855.mk)
 
-# Inherit some common CM stuff.
+# Inherit some common XenonHD stuff.
 $(call inherit-product, vendor/xenonhd/config/common_full_phone.mk)
 
 # Set those variables here to overwrite the inherited values.
