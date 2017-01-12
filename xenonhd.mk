@@ -9,6 +9,7 @@ PRODUCT_NAME := xenonhd_d855
 PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-D855
 PRODUCT_MANUFACTURER := LGE
+PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer=Paweł Wangryn
 
 WITH_SUPERSU := false
 
