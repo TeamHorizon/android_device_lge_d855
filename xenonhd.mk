@@ -12,6 +12,7 @@ PRODUCT_MANUFACTURER := LGE
 PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer=Paweł_Wangryn(Vangreen)
 
 WITH_SUPERSU := false
+WITH_SU := true
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
