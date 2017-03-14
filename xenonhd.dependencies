@@ -12,6 +12,6 @@
   {
     "repository": "TeamHorizon/vendor_lge",
     "target_path": "vendor/lge",
-    "branch": "n"
+    "branch": "n-g3"
   }
 ]
