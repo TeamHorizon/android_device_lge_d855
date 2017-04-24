@@ -13,6 +13,11 @@ PRODUCT_PROPERTY_OVERRIDES += ro.xenonhd.maintainer=Paweł_Wangryn(Vangreen)
 
 ROOT_METHOD=magisk
 
+PRODUCT_PACKAGES += \
+    Adaway \
+    KernelAdiutor \
+    MiXplorer
+
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
     PRODUCT_NAME="g3_global_com" \
