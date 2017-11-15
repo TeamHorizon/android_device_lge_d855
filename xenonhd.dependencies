@@ -4,7 +4,12 @@
     "target_path": "device/lge/g3-common"
   },
   {
-    "repository": "proprietary_vendor_lge",
+    "repository": "vendor_lge",
     "target_path": "vendor/lge"
+    "branch": "o-g3"
+  },
+  {
+    "repository": "android_kernel_lge_g3",
+    "target_path": "kernel/lge/g3"
   }
 ]
