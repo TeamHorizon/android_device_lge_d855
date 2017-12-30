@@ -30,6 +30,9 @@ BOARD_CUSTOM_BT_CONFIG := device/lge/d855/bluetooth/vnd_g3.txt
 TARGET_KERNEL_CONFIG := lineageos_d855_defconfig
 TARGET_REQUIRES_BUMP := true
 
+# HIDL
+DEVICE_MANIFEST_FILE += device/lge/d855/configs/manifest.xml
+
 # Partitions
 BOARD_FLASH_BLOCK_SIZE := 131072
 BOARD_BOOTIMAGE_PARTITION_SIZE := 16777216
